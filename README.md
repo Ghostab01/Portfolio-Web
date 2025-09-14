@@ -6,7 +6,7 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 - Responsive design
 - Project gallery
-- Contact form
+- Contact info
 - About me section
 
 ## Tech Stack
